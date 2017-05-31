@@ -1,0 +1,19 @@
+{
+  "name": "merged-features",
+  "version": "1.0.0",
+  "description": "List merged Pull Requests to a GitHub repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "pr",
+    "pull-request",
+    "ci",
+    "changelog"
+  ],
+  "author": "Aaron Sikes",
+  "license": "MIT"
+}
