@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "List merged Pull Requests to a GitHub repository",
   "main": "index.js",
+  "bin": "bin.js",
   "scripts": {
     "test": "mocha"
   },
@@ -25,6 +26,8 @@
   },
   "homepage": "https://github.com/courajs/merged-features#readme",
   "devDependencies": {
+    "dotenv": "^4.0.0",
     "mocha": "^3.4.2"
-  }
+  },
+  "dependencies": {}
 }
