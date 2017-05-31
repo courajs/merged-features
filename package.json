@@ -15,5 +15,13 @@
     "changelog"
   ],
   "author": "Aaron Sikes",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/courajs/merged-features.git"
+  },
+  "bugs": {
+    "url": "https://github.com/courajs/merged-features/issues"
+  },
+  "homepage": "https://github.com/courajs/merged-features#readme"
 }
